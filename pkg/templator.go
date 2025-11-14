@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/ssongin/core"
-	"github.com/ssongin/templator/filejoiner"
+	"github.com/ssongin/templator/pkg/filejoiner"
 	"gopkg.in/yaml.v3"
 )
 
